@@ -42,7 +42,6 @@
       "name": "厂长┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-    "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "changeable": 1,
       "ext": {
